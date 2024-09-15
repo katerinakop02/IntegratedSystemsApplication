@@ -1,0 +1,94 @@
+[
+  {
+    "ContainingType": "PetAdoption.Web.Controllers.API.AdminController",
+    "Method": "Index",
+    "RelativePath": "api/Admin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PetAdoption.Domain.Domain.AdoptApplication, PetAdoption.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption.Web.Controllers.API.AdminController",
+    "Method": "GetAllApplications",
+    "RelativePath": "api/Admin/GetAllApplications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PetAdoption.Domain.Domain.AdoptApplication, PetAdoption.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption.Web.Controllers.API.AdminController",
+    "Method": "GetDetailsForApplication",
+    "RelativePath": "api/Admin/GetDetailsForApplication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetAdoption.Domain.Domain.BaseEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PetAdoption.Domain.Domain.AdoptApplication",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption.Web.Controllers.API.AdminController",
+    "Method": "ImportAllShelters",
+    "RelativePath": "api/Admin/ImportAllShelters",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[PetAdoption.Domain.DTO.ShelterDTO, PetAdoption.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

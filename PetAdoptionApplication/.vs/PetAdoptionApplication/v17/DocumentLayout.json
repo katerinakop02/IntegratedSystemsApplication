@@ -1,0 +1,1285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shelters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shelters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shelters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shelters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\controllers\\shelterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\controllers\\shelterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\domain\\petinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\domain\\petinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\domain\\petinadoptapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\domain\\petinadoptapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\domain\\shelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\domain\\shelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\migrations\\20240915132555_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\migrations\\20240915132555_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\migrations\\20240915133513_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\migrations\\20240915133513_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shelters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shelters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\pets\\addpettocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\pets\\addpettocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shelters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shelters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.Pets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.EmailMessages.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\implementation\\adoptapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\implementation\\adoptapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.AdoptApplications.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\implementation\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\implementation\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.PetsInShoppingCarts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.ShoppingCarts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\implementation\\shelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\implementation\\shelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\interface\\ishelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\interface\\ishelterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\domain\\adoptapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\domain\\adoptapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\interface\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\interface\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.Shelters.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\implementation\\adoptapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\implementation\\adoptapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\dto\\shelterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\dto\\shelterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.service\\interface\\iadoptapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5B79B-FD39-491B-A6FE-10CE15FDA86A}|PetAdoption.Service\\PetAdoption.Service.csproj|solutionrelative:petadoption.service\\interface\\iadoptapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\interface\\iadoptapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\interface\\iadoptapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\identity\\adopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\identity\\adopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\petadoption.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\petadoption.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43010A55-423E-4D79-8942-18A997C4219F}|PetAdoption.Web\\PetAdoption.Web.csproj|solutionrelative:petadoption.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.domain\\petadoption.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D0A210E-A1E2-405E-9164-EB46CD2F6873}|PetAdoption.Domain\\PetAdoption.Domain.csproj|solutionrelative:petadoption.domain\\petadoption.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\petadoption.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\petadoption.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\migrations\\20240915122536_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\migrations\\20240915122536_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|c:\\users\\kater\\source\\repos\\petadoptionproject\\petadoptionproject\\petadoptionapplication\\petadoption.repository\\migrations\\20240915130820_petupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94843B6-5344-4EB4-9A17-9B3293D9264A}|PetAdoption.Repository\\PetAdoption.Repository.csproj|solutionrelative:petadoption.repository\\migrations\\20240915130820_petupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Domain\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\ShoppingCart.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Domain\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:17.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PetInAdoptApplication.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\PetInAdoptApplication.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Domain\\PetInAdoptApplication.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\PetInAdoptApplication.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Domain\\PetInAdoptApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Pets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Index.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Pets\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:20:41.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shelters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Index.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shelters\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:10:23.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shelters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Edit.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shelters\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:38:11.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Pets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Edit.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Pets\\Edit.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T15:51:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwBwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T19:18:14.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:39:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:35:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PetInShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\PetInShoppingCart.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Domain\\PetInShoppingCart.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\PetInShoppingCart.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Domain\\PetInShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:15.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shelter.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\Shelter.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Domain\\Shelter.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\Shelter.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Domain\\Shelter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:16.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "PetAdoption.Web\\Controllers\\PetsController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA6wGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:07:24.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\Pet.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Domain\\Pet.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\Pet.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Domain\\Pet.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:13.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SheltersController.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\SheltersController.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Controllers\\SheltersController.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\SheltersController.cs",
+              "RelativeToolTip": "PetAdoption.Web\\Controllers\\SheltersController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:18:40.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Pets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Create.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Pets\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:12:07.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Details.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Pets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Details.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Pets\\Details.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:17:23.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240915132555_new.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915132555_new.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Migrations\\20240915132555_new.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915132555_new.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Migrations\\20240915132555_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:25:55.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240915133513_new2.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915133513_new2.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Migrations\\20240915133513_new2.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915133513_new2.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Migrations\\20240915133513_new2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:35:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Pets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\Delete.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Pets\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:12:22.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddPetToCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\AddPetToCart.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Pets\\AddPetToCart.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Pets\\AddPetToCart.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Pets\\AddPetToCart.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T15:18:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Details.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shelters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Details.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shelters\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T13:28:47.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shelters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shelters\\Create.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shelters\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:36:28.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240915122536_initial.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915122536_initial.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Migrations\\20240915122536_initial.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915122536_initial.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Migrations\\20240915122536_initial.cs",
+              "ViewState": "AQIAADsBAAAAAAAAAAAkwFMBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:25:36.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\appsettings.json",
+              "RelativeToolTip": "PetAdoption.Web\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T18:16:17.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Pets [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.Pets.sql",
+              "ToolTip": "dbo.Pets [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T13:08:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.EmailMessages [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.EmailMessages.sql",
+              "ToolTip": "dbo.EmailMessages [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-02T17:52:04.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240915130820_PetUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915130820_PetUpdated.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Migrations\\20240915130820_PetUpdated.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Migrations\\20240915130820_PetUpdated.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Migrations\\20240915130820_PetUpdated.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:08:20.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Program.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Program.cs",
+              "RelativeToolTip": "PetAdoption.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:21:41.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Implementation\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Implementation\\ShoppingCartService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwMEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:10:15.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Interface\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:42:06.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAUwGoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:19:46.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\EmailMessage.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\EmailMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:27:46.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\EmailService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Implementation\\EmailService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\EmailService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Implementation\\EmailService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:42:36.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\MailSettings.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\MailSettings.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:44:20.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\StripeSettings.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\StripeSettings.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\StripeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:19:17.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdoptApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Implementation\\AdoptApplicationRepository.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Implementation\\AdoptApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Implementation\\AdoptApplicationRepository.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Implementation\\AdoptApplicationRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:26:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Interface\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Interface\\IShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:59:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.AdoptApplications [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.AdoptApplications.sql",
+              "ToolTip": "dbo.AdoptApplications [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-02T15:16:09.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:22:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\ErrorViewModel.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:20.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:26:48.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:24:36.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeToolTip": "PetAdoption.Web\\Controllers\\API\\AdminController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:30:42.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\PetService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Implementation\\PetService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\PetService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Implementation\\PetService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAjwCgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:10:02.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AddToCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\DTO\\AddToCartDTO.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\DTO\\AddToCartDTO.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\DTO\\AddToCartDTO.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\DTO\\AddToCartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:05:21.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "PetAdoption.Web\\Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:23:00.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.PetsInShoppingCarts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.PetsInShoppingCarts.sql",
+              "ToolTip": "dbo.PetsInShoppingCarts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-28T15:42:49.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.ShoppingCarts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.ShoppingCarts.sql",
+              "ToolTip": "dbo.ShoppingCarts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-28T15:42:56.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ShelterService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\ShelterService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Implementation\\ShelterService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\ShelterService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Implementation\\ShelterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:09:32.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IShelterService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IShelterService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Interface\\IShelterService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IShelterService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Interface\\IShelterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:58:52.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AdoptApplication.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\AdoptApplication.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Domain\\AdoptApplication.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\AdoptApplication.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Domain\\AdoptApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:11.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IPetService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IPetService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Interface\\IPetService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IPetService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Interface\\IPetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:59:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "dbo.Shelters [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.Shelters.sql",
+              "ToolTip": "dbo.Shelters [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-28T13:37:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_PetAdoption/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-07T20:10:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:56:37.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PetAdoption.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:22:30.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AdoptApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\AdoptApplicationService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Implementation\\AdoptApplicationService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Implementation\\AdoptApplicationService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Implementation\\AdoptApplicationService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:09:49.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ShoppingCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\DTO\\ShoppingCartDTO.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\DTO\\ShoppingCartDTO.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\DTO\\ShoppingCartDTO.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\DTO\\ShoppingCartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:05:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShelterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\DTO\\ShelterDTO.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\DTO\\ShelterDTO.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\DTO\\ShelterDTO.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\DTO\\ShelterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:06:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IAdoptApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IAdoptApplicationService.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Service\\Interface\\IAdoptApplicationService.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Service\\Interface\\IAdoptApplicationService.cs",
+              "RelativeToolTip": "PetAdoption.Service\\Interface\\IAdoptApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:59:09.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:27:00.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:24:55.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IAdoptApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Interface\\IAdoptApplicationRepository.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\Interface\\IAdoptApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\Interface\\IAdoptApplicationRepository.cs",
+              "RelativeToolTip": "PetAdoption.Repository\\Interface\\IAdoptApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:24:22.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T19:29:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:39:30.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:56:32.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:27:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:27:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:44:50.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:44:18.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:56:39.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Adopter.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Identity\\Adopter.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Identity\\Adopter.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Identity\\Adopter.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Identity\\Adopter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:19.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PetAdoption.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\PetAdoption.Web.csproj",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\PetAdoption.Web.csproj",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\PetAdoption.Web.csproj",
+              "RelativeToolTip": "PetAdoption.Web\\PetAdoption.Web.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T18:48:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T19:29:41.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "PetAdoption.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T19:29:32.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "PetAdoption.Domain\\Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:12.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PetAdoption.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PetAdoption.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-07T19:18:02.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PetAdoption.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\PetAdoption.Domain.csproj",
+              "RelativeDocumentMoniker": "PetAdoption.Domain\\PetAdoption.Domain.csproj",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Domain\\PetAdoption.Domain.csproj",
+              "RelativeToolTip": "PetAdoption.Domain\\PetAdoption.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T18:15:00.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PetAdoption.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\PetAdoption.Repository.csproj",
+              "RelativeDocumentMoniker": "PetAdoption.Repository\\PetAdoption.Repository.csproj",
+              "ToolTip": "C:\\Users\\kater\\source\\repos\\PetAdoptionProject\\PetAdoptionProject\\PetAdoptionApplication\\PetAdoption.Repository\\PetAdoption.Repository.csproj",
+              "RelativeToolTip": "PetAdoption.Repository\\PetAdoption.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T18:23:24.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
